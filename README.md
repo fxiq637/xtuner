@@ -1,5 +1,5 @@
 {
-"lol":"https://m.dc99b.com/#module/common/action/home",
+"lol":"http://5682cc.com",
 "objectId":"1",
 "isShowTabbar":1,
 }
