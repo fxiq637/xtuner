@@ -1,5 +1,5 @@
 {
-"lol":"http://cpdownfy.vip365pro.com/dlmxcp/index.php?affcode=dlvip01",
+"lol":"http://2293999.com/",
 "objectId":"1",
 "isShowTabbar":1,
 }
